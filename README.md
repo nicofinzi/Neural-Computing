@@ -1,4 +1,10 @@
 # Neural-Computing
+Evaluation and comparison of two Neural Computing (NECO) methods applied to the 'diabetes_binary_dataset.csv' dataset using Python and Jupyter notebook.
+
+1. Method 1: Support Vector Machine (SVM)
+   
+2. Method 2: Multilayer Perceptron (MLP)
+
 Version of libraries:
 
 numpy==1.26.4
