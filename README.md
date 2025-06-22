@@ -8,8 +8,11 @@ pandas==2.2.2
 sklearn==1.5.1
 
 skorch==1.1.0
+
 matplotlib==3.9.2
+
 torch==2.6.0
+
 joblib==1.4.2
 
 Setup Instructions:
