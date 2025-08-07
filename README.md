@@ -1,20 +1,5 @@
 # Neural-Computing
 
-Output Images:
-
-1. MLP's training loss curves for baseline vs final model.
-
-<img width="989" height="590" alt="Figure 5" src="https://github.com/user-attachments/assets/bd49be9f-ed55-4b94-b745-932fad18c126" />
-
-2. The final models’ area under the ROC curves for the MLP and SVM methods.
-   
-<img width="1141" height="453" alt="Figure 4" src="https://github.com/user-attachments/assets/748b371c-f7e0-4ada-b907-3f4fb86868d4" />
-
-3. The final models’ confusion matrices for the MLP and SVM methods.
-
-<img width="1032" height="453" alt="Figure 3" src="https://github.com/user-attachments/assets/d07be646-5be2-4ef2-924c-fe85318f6274" />
-
-
 Evaluation and comparison of two Neural Computing (NECO) methods applied to the 'diabetes_binary_dataset.csv' dataset using Python and Jupyter notebook.
 
 1. Method 1: Support Vector Machine (SVM)
@@ -73,3 +58,18 @@ Explanation of all Files:
 'SVM_TEST_EVAL.html' - This is the .html version of the SVM_TEST_EVAL.ipynb Jupyter notebook, which is going to be used to check reproducibility.
 
 'MLP_TEST_EVAL.html' - This is the .html version of the MLP_TEST_EVAL.ipynb Jupyter notebook, which is going to be used to check reproducibility.
+
+
+# Output Images/Graphs:
+
+1. MLP's training loss curves for baseline vs final model.
+
+<img width="989" height="590" alt="Figure 5" src="https://github.com/user-attachments/assets/bd49be9f-ed55-4b94-b745-932fad18c126" />
+
+2. The final models’ area under the ROC curves for the MLP and SVM methods.
+   
+<img width="1141" height="453" alt="Figure 4" src="https://github.com/user-attachments/assets/748b371c-f7e0-4ada-b907-3f4fb86868d4" />
+
+3. The final models’ confusion matrices for the MLP and SVM methods.
+
+<img width="1032" height="453" alt="Figure 3" src="https://github.com/user-attachments/assets/d07be646-5be2-4ef2-924c-fe85318f6274" />
